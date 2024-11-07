@@ -10,13 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Unreal engine<br>🎯 Goals: Learn about ethical hacking<br>🎲 Fun fact: Me and my friends made a goofy gaming channel</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Unreal engine<br>🎯 Goals: Learn about ethical hacking<br>🎲 Fun fact: Me and my friends made a goofy gaming channel</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
